@@ -62,4 +62,8 @@ public class MainActivity extends AppCompatActivity {
     private void AChangeForGitHub(){
         int i = 1 + 2;
     }
+
+    private void newMethod(){
+        String test = "test";
+    }
 }
