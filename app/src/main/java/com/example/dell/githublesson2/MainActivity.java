@@ -58,4 +58,8 @@ public class MainActivity extends AppCompatActivity {
 
         int iii = i + ii;
     }
+
+    private void AChangeForGitHub(){
+        int i = 1 + 2;
+    }
 }
