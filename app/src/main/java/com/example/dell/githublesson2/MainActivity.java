@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
         boolean blnTest = false;
 
-        int j = 2 + 8;
+        int j = 2 + 888888888;
 
         // blaaaa blaaaa
     }
