@@ -64,11 +64,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void newMethod(){
-        String test = "test";
+        String test = "testtttttt";
 
         boolean blnTest = false;
 
-        int j = 2 + 2;
+        int j = 2 + 8;
 
         // blaaaa blaaaa
     }
