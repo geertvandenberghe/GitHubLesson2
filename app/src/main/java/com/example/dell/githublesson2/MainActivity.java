@@ -69,5 +69,7 @@ public class MainActivity extends AppCompatActivity {
         boolean blnTest = false;
 
         int j = 2 + 2;
+
+        // blaaaa blaaaa
     }
 }
