@@ -67,5 +67,7 @@ public class MainActivity extends AppCompatActivity {
         String test = "test";
 
         boolean blnTest = false;
+
+        int j = 2 + 2;
     }
 }
