@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void AChangeForGitHub(){
-        int i = 1 + 2 + 1 + 7;
+        int i = 1 + 2 + 1 + 18;
     }
 
     private void newMethod(){
@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
         boolean blnTest = false;
 
-        int j = 2 + 2;
+        int j = 2 + 222222;
 
         // blaaaa blaaaa
     }
