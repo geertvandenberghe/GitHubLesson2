@@ -60,11 +60,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void AChangeForGitHub(){
-        int i = 1 + 2 + 1 + 7;
+        int i = 1 + 2 + 1 + 18;
     }
 
     private void newMethod(){
-        String test = "testtttttt";
+        String test = "test";
 
         boolean blnTest = false;
 
